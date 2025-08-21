@@ -2,7 +2,7 @@
 
 Predicting Mobile Churn analysis for Mitigrating Strategies in telecommunication industry 
 
-https://github.com/Isaac5886/Data-science-Dissertation-/blob/982fed240c61567cb708e94a506c85f4cdc4b9a0/Screenshot_20250820-133404_WPS%20Office.jpg
+!(https://github.com/Isaac5886/Data-science-Dissertation-/blob/982fed240c61567cb708e94a506c85f4cdc4b9a0/Screenshot_20250820-133404_WPS%20Office.jpg)
 
 # Machine learning algorithms used
 ● Logistic Regression
