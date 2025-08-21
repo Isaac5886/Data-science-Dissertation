@@ -5,6 +5,7 @@ Predicting Mobile Churn analysis for Mitigrating Strategies in telecommunication
 ![Uploading 17557834771431372759290463541138.jpg…]()
 
 
+
 # Machine learning algorithms used
 ● Logistic Regression
 
