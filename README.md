@@ -28,5 +28,7 @@ Predicting Mobile Churn analysis for Mitigrating Strategies in telecommunication
 
 ● Phyton 
 
+● Microsoft Excel 
+
 
 
