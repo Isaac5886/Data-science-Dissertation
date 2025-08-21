@@ -2,7 +2,7 @@
 
 Predicting Mobile Churn analysis for Mitigrating Strategies in telecommunication industry 
 
-![image alt]![Uploading 17557834771431372759290463541138.jpg…]()
+![Uploading 17557834771431372759290463541138.jpg…]()
 
 
 # Machine learning algorithms used
