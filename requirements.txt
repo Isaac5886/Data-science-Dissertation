@@ -4,15 +4,4 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-joblib
-sklearn
-pickle
-LinearRegression
-Ridge
-Lasso
-ElasticNet
-DecisionTreeRegressor
-RandomForestRegressor
-GradientBoostingRegressor
-KNeighborsRegressor
-SVR
+imbalanced-learn 
