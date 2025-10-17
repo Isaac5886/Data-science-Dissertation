@@ -30,5 +30,10 @@ Predicting Mobile Churn analysis for Mitigrating Strategies in telecommunication
 
 ● Microsoft Excel 
 
+# 🚀 *Live Demo:*  
+
+Check out the deployed Streamlit app 👉 [predicting mobile telecom churn](https://isaac5886-data-science-dissertation-gbc-gqwaaz.streamlit.app/)
+
+
 
 
